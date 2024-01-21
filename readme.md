@@ -26,6 +26,23 @@ Riders is a static website built using HTML5 and styled with Tailwind CSS. The p
 
 ## Screenshots
 
-![Screenshots](desktop-view.png)
-![Screenshots](tablet-view.png)
-![Screenshots](mobile-view.png)
+<details>
+  <summary>Desktop view</summary>
+
+  ![Screenshots](screenshots/desktop-view.png)
+</details>
+
+<details>
+  <summary>Tablet view</summary>
+
+  ![Screenshots](screenshots/tablet-view.png)
+</details>
+
+<details>
+  <summary>Mobile view</summary>
+
+![Screenshots](screenshots/mobile-view-1.png)
+![Screenshots](screenshots/mobile-view-2.png)
+</details>
+
+
