@@ -12,25 +12,20 @@ Riders is a static website built using HTML5 and styled with Tailwind CSS. The p
 
 ## Sections
 
-### 1. Features of Bikes
-
-In this section, users can explore different bikes.
-
-### 2. Latest News
-
-Stay updated with the latest news in the biking world. 
-
-### 3. Customer Reviews
-
-Learn about the experiences of other customers with our bikes. 
-
-### 4. FAQ (Frequently Asked Questions)
-
-The FAQ section addresses common queries and concerns that users may have about the bikes, services, or the website itself. 
+#### 1. Features of Bikes
+#### 2. Latest News
+#### 3. Customer Reviews
+#### 4. FAQ (Frequently Asked Questions)
 
 ## Usage
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/riders.git
+   git clone https://github.com/Sadiqur057/Riders.git
+
+## Screenshots
+
+![Screenshots](desktop-view.png)
+![Screenshots](tablet-view.png)
+![Screenshots](mobile-view.png)
