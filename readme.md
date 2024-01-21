@@ -14,10 +14,10 @@ Riders is a static website built using HTML5 and styled with Tailwind CSS. The p
 
 ## Sections
 
-#### 1. Features of Bikes
-#### 2. Latest News
-#### 3. Customer Reviews
-#### 4. FAQ (Frequently Asked Questions)
+- Features of Bikes
+-  Latest News
+-  Customer Reviews
+-  FAQ (Frequently Asked Questions)
 
 ## Usage
 
