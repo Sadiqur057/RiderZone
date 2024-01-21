@@ -4,6 +4,8 @@
 
 Riders is a static website built using HTML5 and styled with Tailwind CSS. The project incorporates the Daisy UI components to enhance the user interface and experience. It is designed to showcase various sections including features of bikes, latest news, customer reviews, and frequently asked questions (FAQ).
 
+#### Live Preview: [Click here](https://sadiqur057.github.io/Riders/)
+
 ## Technologies Used
 
 - HTML5
